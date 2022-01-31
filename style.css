@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.status {
+  padding: 20px 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+  letter-spacing: 1px;
+}
